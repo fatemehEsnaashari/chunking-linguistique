@@ -1,4 +1,4 @@
-# 🧩 Moteur de Chunking linguistique (2024)
+# 🧩 Moteur de Chunking linguistique
 
 **Langages et outils :** Python, XML  
 **Objectif :** Analyser la structure syntaxique de textes français à travers un moteur de *chunking*.
